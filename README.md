@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there, i'm Couzigou Corentin👋
+⚡I am passionate about web development and new technologi⚡
+- 🌱 I’m currently study at O'Clock school !
+- 📫 How to reach me: https://www.linkedin.com/in/corentin-couzigou-0b200b175/
 <!--
 **CorentinCouzigou/CorentinCouzigou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
