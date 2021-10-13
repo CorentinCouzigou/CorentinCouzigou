@@ -1,6 +1,5 @@
 ![alt text](./FireShot%20Capture%20072%20-%20Document%20-%20127.0.0.1.png) 
 ⚡I am passionate about web development and new technologi⚡
-- 🌱 I’m currently study at O'Clock school !
 - 📫 How to reach me: https://www.linkedin.com/in/corentin-couzigou-0b200b175/
 <!--
 **CorentinCouzigou/CorentinCouzigou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
