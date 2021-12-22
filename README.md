@@ -1,6 +1,7 @@
 ![alt text](./FireShot%20Capture%20072%20-%20Document%20-%20127.0.0.1.png) 
 ⚡I am passionate about web development  and new technology⚡
 - 📫 Find me on: <a href="https://www.linkedin.com/in/corentin-couzigou-0b200b175/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- :satellite: Web site: www.corentincouzigou.com
 
 <link>
 <hr>
